@@ -1,0 +1,11 @@
+---
+title: "Christy Website"
+author: "Christy Wachira"
+date: "2024-03-26"
+output: html_document
+---
+
+# Christy Wachira Highlights
+## I am from Dallas, Texas
+### I enjoy traveling, reading, honing my analytical skills, and spending time with loved ones.
+The other tabs represent work / analyses that I have completed.  Please check them out!
